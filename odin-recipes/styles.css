@@ -1,0 +1,47 @@
+body{
+    background: lightgrey;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title{
+    text-align: center;
+    background: wheat;
+    font-size: 35px;
+}
+.lnks{
+    text-align: center;
+    background: lightgoldenrodyellow;
+    font-size: 30px;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+img{    
+    height: auto;
+    width: 300px;
+}
+.lasagnaDiv{
+    background: lightgoldenrodyellow;
+}
+h1{
+    text-align: center;
+}
+.lasagnaH1{
+    color: lightgoldenrodyellow;
+}
+.pCakeH1{
+    color: rgb(45, 126, 153);
+}
+.pCakeDiv{
+    background: lightblue;
+}
